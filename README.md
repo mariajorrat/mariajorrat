@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm passionate about blending technology and art t
 
 ### 👩🏻‍💻 About Me
 
-* 🎓 Currently pursuing an associate degree in software development.
 * 📍 Based in San Miguel de Tucumán, Argentina.
 * 🎸 My hobbies include singing, playing chess, photography, and listening to bands like System Of A Down and Mötley Crüe.
 
