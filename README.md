@@ -1,6 +1,8 @@
 # Hi there! I'm María 👋
 
-### Bilingual Frontend Developer - UI & Graphic Designer
+## Bilingual professional
+
+### UI/UX and graphic designer | Frontend developer | QA manual
 
 Welcome to my GitHub profile! I'm passionate about blending technology and art to create beautiful, functional digital experiences. I am currently open to new opportunities as a Graphic Designer or Web Developer. 
 
