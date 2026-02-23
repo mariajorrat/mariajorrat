@@ -1,6 +1,6 @@
 <h1 align="center">Welcome! I'm Maria</h1>
 <h3 align="center">UI Designer and Developer</h3>
-<h3 align="center">https://mariajorrat.pages.dev/</h3>
+<h3 align="center">https://www.linkedin.com/in/mariajorrat/</h3>
 
 ---
 
