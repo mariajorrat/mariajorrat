@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm passionate about blending technology and art t
 ### 🌍 Languages
 
 * **Spanish:** Native
-* **English:** C1 Advanced (Certified by the British Council)
+* **English:** C2 Advanced
 
 ---
 
