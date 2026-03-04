@@ -1,4 +1,4 @@
-# Hi there! I'm María Florencia 👋
+# Hi there! I'm Maria Florencia 👋
 
 ## Bilingual professional (ES/EN)
 
