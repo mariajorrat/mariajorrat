@@ -1,6 +1,6 @@
 # Hi there! I'm María Florencia 👋
 
-## Bilingual professional
+## Bilingual professional (ES/EN)
 
 ### UI/UX and Graphic designer | Frontend developer
 
