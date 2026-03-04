@@ -2,7 +2,7 @@
 
 ## Bilingual professional
 
-### UI/UX and graphic designer | Frontend developer | QA manual
+### UI/UX and Graphic designer | Frontend developer
 
 Welcome to my GitHub profile! I'm passionate about blending technology and art to create beautiful, functional digital experiences. I am currently open to new opportunities as a Graphic Designer or Web Developer. 
 
