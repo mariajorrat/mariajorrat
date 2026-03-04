@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about blending technology and art t
 
 ### 👩🏻‍💻 About Me
 
-* 📍 Based in San Miguel de Tucumán, Argentina.
+* 📍 Based in San Miguel de Tucuman, Argentina.
 * 🎸 My hobbies include singing, playing chess, photography, and listening to bands like System Of A Down and Mötley Crüe.
 
 ---
